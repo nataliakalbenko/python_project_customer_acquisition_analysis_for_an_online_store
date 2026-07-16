@@ -1,4 +1,5 @@
 # python_project_customer_acquisition_analysis_for_an_online_store
+
 ## About the Project
 
 This project was developed in Python as part of my Data Analyst portfolio.
@@ -18,16 +19,20 @@ How do customer retention and revenue change across monthly cohorts, and which c
 
 ## Tech Stack
 **Category	Tools**
-- Programming	Python, Development	Google Colab 
+- Programming	Python, Development	Google Colab
+  [Open Google Colab](https://colab.research.google.com/drive/1dmPEQ9kWHNcs5pfR7j5-mDndcSlatgVl?usp=sharing)
 - Data Analysis	pandas, NumPy
 - Visualization	Matplotlib
-- Reporting	HTML
+- HTML Report: The project also includes an exported HTML report. This report is a static version of the analysis with   charts and summary sections.
+  If GitHub Pages is enabled for this repository, the HTML report can be viewed here:
+  [Open HTML report](https://nataliakalbenko.github.io/python_project_customer_acquisition_analysis_for_an_online_store/)
+ This report is a static version of the analysis with charts and summary sections.
 
 ## Project Structure
 
 ```text
 python-cohort-analysis/
-├── requirements
+├── requirements.txt
 ├── data/
 │   └── client_base.xlsx
 │
